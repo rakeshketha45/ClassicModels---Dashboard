@@ -6,8 +6,8 @@ An interactive Power BI dashboard built using the Classic Models dataset to visu
 
 ## 📁 Files Included
 - `ClassicModels_Report.pbix` – Power BI Dashboard file
-- `sample-data.xlsx` – Sample dataset used for the report
-- `/images/` – Screenshots of the report visuals
+- `Data` – Sample dataset used for the report
+- `dashboard.jpg` – Screenshots of the report visuals
 
 
 ---
@@ -25,11 +25,6 @@ An interactive Power BI dashboard built using the Classic Models dataset to visu
 - Power Query (ETL)
 - DAX (Data Analysis Expressions)
 - Excel
-
----
-
-## 🖼 Preview
-![Dashboard Screenshot](images/dashboard-preview.png)
 
 ---
 
